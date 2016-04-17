@@ -1,0 +1,6 @@
+## Interface: 11200
+## SavedVariables: LPCONFIG, LPSPLIT, LPMENU
+## Title: LazyPig v4.55
+## Notes: UI Enhancements
+LazyPig.xml
+LazyPigMenu.xml
