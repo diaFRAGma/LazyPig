@@ -1,0 +1,11 @@
+World of Warcraft 1.12.1 Addon mit vielen kleinen Helferlein
+
+Hauptsächlich wurde bei dem Addon alles von Tahlia eingedeutscht, damit es mit dem deutschen Client läuft.
+Ich habe nur an der Teil etwas verändert, der den Segen der Rettung und den Großen Segen der Rettung entfernt, wenn man als Krieger ein Schild trägt oder als Druide in Bärform switcht.
+
+Nützliche Links:
+World of Warcraft 1.12.1 API
+http://vanilla-wow.wikia.com/wiki/World_of_Warcraft_API
+http://www.wowwiki.com/index.php?title=World_of_Warcraft_API&oldid=281620
+Programming in Lua
+http://www.lua.org/pil/contents.html
