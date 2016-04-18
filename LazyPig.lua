@@ -848,7 +848,7 @@ function LazyPig_ZGRoll(id)
 	end
 	if LPCONFIG.ZG then	
 		local _, name, _, quality = GetLootRollItemInfo(id);
-		if string.find(name ,"Schmuckstück") or string.find(name ,"Münze") then
+		if string.find(name ,"Schmuckstück") or string.find(name ,"Münze") or string.find(name ,"skarabäus") or string.find(name ,"götze") or string.find(name ,"Götze") then
 			RollOnLoot(id, LPCONFIG.ZG);
 			local _, _, _, hex = GetItemQualityColor(quality)
 			DEFAULT_CHAT_FRAME:AddMessage("LazyPig: Auto "..hex..RollReturn().." "..GetLootRollItemLink(id))
